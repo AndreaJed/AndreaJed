@@ -6,22 +6,6 @@ Based in Milan, Italy. I've been building production web and mobile applications
 
 ---
 
-## What I do
-
-I build end-to-end applications, from requirements gathered directly with clients to the UI, the API, the database and the deployment.
-
-
-## Tech stack
-
-| Area | Tools |
-|---|---|
-| **Frontend** | Angular, TypeScript, JavaScript, Flutter |
-| **Backend** | NestJS, Node.js, Java |
-| **Databases** | PostgreSQL, MySQL, SQL Server |
-| **Cloud & tooling** | AWS, Git |
-
----
-
 ## Currently working on
 
 I'm following a structured, public-facing learning plan over the next ~8 months:
